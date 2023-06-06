@@ -5,3 +5,10 @@
   "answer": 0,
   "explanation": "La michelada, originaria de México, nacida de la creatividad y el deseo de refrescar, se convirtió en una popular bebida que cautivó a los amantes de la cerveza con su combinación única de sabores y su espíritu festivo."
 }
+{
+  "category": "Tecnología",
+  "question": "¿Cuál es el sistema operativo más utilizado en el mundo?",
+  "options": ["Windows, Linux, Mac, RedHat, Debian"],
+  "answer": 0,
+  "explanation": "Microsoft Windows es el sistema operativo más usado en el mundo"
+}
